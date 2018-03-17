@@ -1,8 +1,9 @@
 # translateME
 
+### Description
 A ReactJS translate application which uses Yandex translate API.
 
-## Technologies used in project:
+### Technologies used in project:
 - ReactJS with axios module
 - UiKit (CSS)
 - Yandex translate API (https://tech.yandex.com/translate/)
