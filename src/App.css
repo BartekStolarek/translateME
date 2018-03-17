@@ -51,6 +51,7 @@ html {
 .outputText {
   font-size: 3.25rem;
   color: #eee;
+  word-break: break-all;
 }
 .dark {
   background-color: #222;
