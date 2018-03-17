@@ -8,5 +8,5 @@ A ReactJS translate application which uses Yandex translate API.
 - UiKit (CSS)
 - Yandex translate API (https://tech.yandex.com/translate/)
 
-# Demo
+### Demo
 https://bartekstolarek.github.io/translateME/
