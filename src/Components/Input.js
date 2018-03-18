@@ -13,7 +13,7 @@ class Input extends Component {
   handleSubmit(e) {
     e.preventDefault();
     if (this.refs.text.value === '') {
-        alert('Title is required');
+        //alert('Title is required');
     } else {
         this.setState({
             textToTranslate: this.refs.text.value,
