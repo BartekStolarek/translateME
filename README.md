@@ -10,3 +10,6 @@ A ReactJS translate application which uses Yandex translate API.
 
 ### Demo
 https://bartekstolarek.github.io/translateME/
+
+### Screens
+![Alt Text](https://image.ibb.co/jTH0jc/translate_ME.gif)
