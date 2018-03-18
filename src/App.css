@@ -8,7 +8,6 @@ html {
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
-  /*width: 80%;*/
   width: 80%;
   height: fit-content;
   background-color: #222;
@@ -63,4 +62,26 @@ html {
   background-color: #333;
   border: 1px solid gray;
   color: #ccc;
+}
+.uk-button {
+  padding: 0px;
+}
+
+@media screen and (max-width: 900px) {
+  .uk-width-1-2 {
+    width: 100%;
+  }
+  .output {
+    padding-top: 50px;
+  }
+  .inputButtonGrid {
+    padding-top: 20px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .input {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
 }

@@ -48,7 +48,7 @@ class Input extends Component {
                             <option value="tr">Turkish</option>
                         </select>
                     </div>
-                    <div className="uk-width-1-2">
+                    <div className="uk-width-1-2 inputButtonGrid">
                         <button type="submit" className="uk-button uk-button-secondary inputButton">Translate</button>
                     </div>
                 </div>
